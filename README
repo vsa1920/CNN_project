@@ -1,0 +1,7 @@
+README File
+
+Instructions to run the code:-
+
+1) The training was done on Google colab and the data is read through a mounted Google drive. Link - https://colab.research.google.com/drive/1y_UyGXBZqJNrgHgx-nqTO2OaVWAbPefA?usp=sharing - A copy of the notebook is also available in this directory but can't be run from here as the colab notebook takes in data through the Drive.
+2) The inference script can be run indepedently with the two models, which are saved as "best_model" - Model with SE layers and "cnn" - Model without SE layers
+3) To run the model on any sample, add it to the Images folder and run the inference script.
